@@ -1,2 +1,2 @@
-add = 3 + 5
-print(add)
+answer = 3 + 5
+print(answer)
